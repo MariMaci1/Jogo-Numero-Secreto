@@ -19,4 +19,4 @@ funcione sem erros.<br>
 * Didática no Código: Organização e clareza para o código, estruturando funções com responsabilidade única e<br> fáceis de ler, garantindo que a lógica seja compreensível para qualquer desenvolvedor que analise o repositório<br>.
 </p>
 ---
-<h3>Desenvolvido por [Mariana Oliveira](https://github.com/MariMaci1)</h3>
+<h3>Desenvolvido por [Mariana Oliveira](https://github.com/MariMaci1/Jogo-Numero-Secreto/tree/main))</h3>
