@@ -4,19 +4,19 @@
 
 <h3>🚀 Tecnologias Utilizadas</h3>
 <p> 
-* HTML5: Estruturação semântica da página.<br>
-* CSS3: Design moderno, responsivo e focado na experiência do usuário (UX).<br>
-* JavaScript : Lógica do jogo, geração de números pseudoaleatórios, controle de tentativas e manipulação<br>
+1. HTML5: Estruturação semântica da página.<br>
+2. CSS3: Design moderno, responsivo e focado na experiência do usuário (UX).<br>
+3. JavaScript : Lógica do jogo, geração de números pseudoaleatórios, controle de tentativas e manipulação<br>
   dinâmica de eventos e textos na tela.
 </p>
 
 <h3>🧠 O que aprendi neste projeto</h3>
 <p>
-* Manipulação do DOM: Como conectar o JavaScript ao HTML para alterar textos, habilitar/desabilitar<br> 
+1. Manipulação do DOM: Como conectar o JavaScript ao HTML para alterar textos, habilitar/desabilitar<br> 
 botões e reagir às ações do usuário em tempo real.<br>
-* Lógica e Condicionais: Implementação de estruturas de repetição e validações para garantir que o jogo<br> 
+2. Lógica e Condicionais: Implementação de estruturas de repetição e validações para garantir que o jogo<br> 
 funcione sem erros.<br>
-* Didática no Código: Organização e clareza para o código, estruturando funções com responsabilidade única e<br> fáceis de ler, garantindo que a lógica seja compreensível para qualquer desenvolvedor que analise o repositório<br>.
+3. Didática no Código: Organização e clareza para o código, estruturando funções com responsabilidade única e<br> fáceis de ler, garantindo que a lógica seja compreensível para qualquer desenvolvedor que analise o repositório<br>.
 </p>
 ---
 <h3>Desenvolvido por [Mariana Oliveira](https://github.com/MariMaci1/Jogo-Numero-Secreto/tree/main)</h3>
