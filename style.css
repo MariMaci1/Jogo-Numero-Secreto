@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(#083602 0%, #0f7605 33.33%, #0e3a07 66.67%, #041a03 100%);
+    background: linear-gradient(#083602 0%, #054376 33.33%, #0e3a07 66.67%, #041a03 100%);
     height: 100vh;
     display: flex;
     align-items: center;
@@ -15,7 +15,7 @@ body {
 
 
 body::before {
-    background-image: url("img/capivara.png");
+    background-image: url("img/code.png");
     background-repeat: no-repeat;
     background-position: right;
     content: "";
@@ -66,10 +66,11 @@ body::before {
 
 .container__texto {
     margin: 16px 0 16px 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container__texto-azul {
-    color: #22a32f;
+    color: #1b8025;
 }
 
 .container__input {
@@ -92,8 +93,8 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
-    padding-bottom: 3rem;
+    font-size: 64px;
+   
 }
 
 p,

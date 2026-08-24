@@ -13,7 +13,7 @@ let numeroSecreto = numeroAleatorio();
     function exibirMensagemInicial(){
         exibirTexto("title", "Número Secreto");
         exibirTexto("h1", "Hora do Desafio!");
-        exibirTexto("p", `escolha um Número entre 1 e ${numeroTotal}`);
+        exibirTexto("p", `Escolha um Número entre 1 e ${numeroTotal}`);
         exibirTexto("h2",`Olá ${nomeUsuario}, bom jogo!`);
     }
 exibirMensagemInicial();
